@@ -1,0 +1,1 @@
+{"ucp":{"version":"2026-08-25"},"agent":{"id":"sec-probe","name":"UCP audit probe","description":"Read-only security assessment probe"},"services":{"dev.ucp.shopping":{"transport":"mcp","version":"2026-08-25","endpoint":"https://cdn.jsdelivr.net/gh/christian2001za/ucp-probe@main/agent-mcp.json"}}}

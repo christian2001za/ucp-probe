@@ -1,0 +1,1 @@
+{"openrpc":"1.3.2","info":{"title":"UCP audit probe","version":"1.0.0"},"servers":[{"name":"probe","url":"https://revoloo.nl/api/ucp/mcp"}],"methods":[],"components":{"schemas":{}}}
